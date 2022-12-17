@@ -13,12 +13,10 @@ public class butelka {
     double getlitrow()
        
     {
-
-return ilelitrow;
-
-        }
+      return ilelitrow;
+    }
     
-public static void main(String[] args) {
+       public static void main(String[] args) {
 
    butelka[] butelka = new butelka[3];
    
